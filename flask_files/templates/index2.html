@@ -1,0 +1,50 @@
+<html>
+<head> 
+<title> Sentiment Analysis On Twitter Tweets</title>
+<style>
+body
+{
+font-size:90px;
+font-family: arial;
+background-color: coral;
+color : black;
+margin: 140px;
+padding:0px;			
+}
+div 
+{ 
+  border: 10px solid black;
+  background-color: Yellow;
+  width: 900px;
+  padding: 200px;
+  font-family: 'arial';
+  font-size: 50px;
+  margin-top: 50px;
+  margin-right: 300px;
+  padding-top: 0px;
+}
+p.ridge 
+{
+  border-style: ridge;
+}
+</style>
+</head>
+<body>
+<div>
+<h2> Sentiment Analysis On Twitter Tweets </h2>
+
+
+<form action = "{{ url_for('y_predict')}}" method = "post">
+    <br>
+    <b> Enter The Twitter Tweet </b> 
+    <input style="font-size:25px;" required type = "text" name ="Sentence"/> <br>
+    <br>
+
+    <center><button style="font-size:50px;">  Predict  </button></center>
+
+</form>
+<center> <b> </b> </center>
+{{ prediction_text }}
+</div>
+</body>
+</html>
