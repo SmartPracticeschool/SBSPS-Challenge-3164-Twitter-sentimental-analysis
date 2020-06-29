@@ -36,7 +36,9 @@ How are we using automated technology during this time?
 
 
 About Ideas
+
 How Twitter Live Dashboards can help Authorities
+
 1.Twitter data extraction and data mining can significantly help doctors and government authorities to adequately understand the critical disease, its patterns, and symptoms and present them with valuable insights to promptly arrive at the appropriate treatment, medicines, and preventive guidelines.
 2.Cloud-based Twitter Live Dashboards based on Machine Learning and NLP algorithms can provide meaningful analysis to deal with such Pandemic like Coronavirus(Covid-19).
 3.There are millions of authentic tweets concerning Coronavirus originating at all the time. These tweets hold vital information that can help us understand the disease and its root causes. The latest ML & AI heatmaps are used to trace and filter out the misinformation floating and provide us with accurate data streaming to analyze and visualize it on live dashboards.
@@ -44,12 +46,14 @@ How Twitter Live Dashboards can help Authorities
 
 
 Business / Social Impact
+
 1. To help us review reports more efficiently by surfacing content that's most likely to cause harm and should be reviewed first.
 2. To help us proactively identify rule-breaking content before it's reported. Our systems learn from past decisions by our review teams, so over time, the technology is able to help us rank content or challenge accounts automatically.
 3. For content that requires additional context, such as misleading information around COVID-19, our teams will continue to review those reports manually.
 
 
 Technology Stack
+
 PYTHON
 NODE RED
 IBM WATSON STUDIO
