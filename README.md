@@ -40,8 +40,11 @@ About Ideas
 How Twitter Live Dashboards can help Authorities
 
 1.Twitter data extraction and data mining can significantly help doctors and government authorities to adequately understand the critical disease, its patterns, and symptoms and present them with valuable insights to promptly arrive at the appropriate treatment, medicines, and preventive guidelines.
+
 2.Cloud-based Twitter Live Dashboards based on Machine Learning and NLP algorithms can provide meaningful analysis to deal with such Pandemic like Coronavirus(Covid-19).
+
 3.There are millions of authentic tweets concerning Coronavirus originating at all the time. These tweets hold vital information that can help us understand the disease and its root causes. The latest ML & AI heatmaps are used to trace and filter out the misinformation floating and provide us with accurate data streaming to analyze and visualize it on live dashboards.
+
 4.These live dashboards can quickly indicate the authorities about variety of emerging patterns, and symptoms, locations, treatments, medicines, vaccines, etc. which could be a lifesaver for many if implemented on time. Furthermore, necessary information can be shared back using predefined hashtags.
 
 
@@ -55,8 +58,11 @@ Business / Social Impact
 Technology Stack
 
 PYTHON
+
 NODE RED
+
 IBM WATSON STUDIO
+
 IBM CLOUD FOR DEPLOYMENT
 
 
