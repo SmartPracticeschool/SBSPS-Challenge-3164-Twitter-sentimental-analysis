@@ -1,11 +1,13 @@
 # SBSPS-Challenge-3164-Twitter-sentimental-analysis
 General Description
+
 The social networking site, Twitter, demonstrated similar effect with the number of posts related to coronavirus showing an unprecedented growth in a very short span of time. The Coronavirus pandemic has taken the world by storm as also the social media and people are actively sharing their thoughts on twitter and therefore sentiment analysis can be conducted to understand the general attitudes of the twitter users at this time. 
 The cloud-based Twitter Live Dashboards based on Machine Learning and NLP algorithms can provide meaningful analysis. Furthermore, necessary information can be shared back using predefined hashtags. Using various existing technologies such as python ,Node Red, BM Watson studio and IBM cloud for deployment, it’s possible to deploy our project. 
 The latest ML & AI heatmaps are used to trace and filter out the misinformation floating and provide us with accurate data streaming to analyze and visualize it on live dashboards.
 As these tweets triggered most discussions online, we now know people’s primary concerns and by taking into consideration into obvious keywords we can perform sentimental analysis. Keywords such: Masks,Covid-19,Red zone,Pandemic.
 
 Novelty / Uniqueness
+
 The Coronavirus pandemic has taken the world by storm as also the social media. As the awareness about the ailment increased, so did messages, videos and posts acknowledging its presence. The social networking site, Twitter, demonstrated similar effect with the number of posts related to coronavirus showing an unprecedented growth in a very short span of time.Sentiment analysis has been conducted to understand the general attitudes of the twitter users at this time. Both tweets by general public and WHO were part of the corpus. 
 
 As these tweets triggered most discussions online, we now know people’s primary concerns:
